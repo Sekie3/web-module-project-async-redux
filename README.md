@@ -5,6 +5,7 @@ This project allows you to practice the concepts and techniques learned in this 
 ## Introduction
 
 This is the chance to let your skills shine! You have learned _sooo_ much the last month, and now you get to put all of your hard-earned skills to work. Choose an open api ([this list](https://apipheny.io/free-api/)). Protip - don't take too long choosing an API. Pick one that looks interesting, and get building.
+https://official-joke-api.appspot.com/random_joke
 
 ❗ **IMPORTANT NOTE:** If your chosen API requires you to use an **API key**, make sure not to hard-code it in your source nor push it to GitHub, for security reasons. Create a separate module that exports the API key, and then make sure to add that module to your .gitignore file.
 
